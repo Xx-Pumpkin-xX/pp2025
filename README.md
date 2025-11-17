@@ -2,5 +2,5 @@
 
 - Your student ID **2410770**
 - Your name **Nguyen Hai Phong**
-- Your class **ICT**
+- Your class **ICT1**
 
